@@ -1,0 +1,48 @@
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-weight: 100;
+    font-style: normal;
+    font-family: Verdana;
+    text-decoration: underline wavy pink;
+    text-transform: lowercase;
+    text-shadow: 3px 3px #89aee1;
+}
+
+
+p {
+    font-size: 10px;
+    /* line-height: 20px; */
+    /* word-spacing: 10px; */
+    /* letter-spacing: 10px; */
+}
+
+nav,
+ul,
+li {
+    display: inline-block;
+}
+
+ul a {
+    font-size: 15px;
+    color: steelblue;
+    margin: 0 20px;
+    text-transform: uppercase;
+}
+
+p a {
+    font-size: 20px;
+}
+
+body {
+    font-family: Geneva, Candara, sans-serif;
+}
+
+#brand {
+    letter-spacing: 10px;
+    text-decoration: none;
+}
+
+h2 {
+    text-shadow: -2px 2px magenta, -4px 4px cyan, -6px 6px yellow;
+}
